@@ -1,0 +1,211 @@
+.wrapper
+{
+width:100%;
+margin:0px;
+
+}
+.top-header
+{
+width:100%;
+height:50px;
+background-color:black;
+}
+.wel
+{
+	padding-top:10px;
+	color:white;
+}
+.top-mid-header
+{
+	width:100%;
+	height:auto;
+	background-color:white;
+}
+#nav
+{
+	margin-left:400px;
+	
+}
+#new
+{
+	background-color:white;
+}
+.navbar-brand
+{
+	font-size:39px;
+	color:#1BBD36;
+	font-family:ARIAL;
+	font-weight:bold;
+}
+#home
+{
+	color:black;
+	font-size:18px;
+	font-family:arial;
+}
+#homeactive
+{
+	color:#1BBD36;
+	font-size:18px;
+	font-family:arial;
+}
+#a{
+	color:#1BBD36;
+}
+#home:hover{
+	color:#1BBD36;
+}
+.slider
+{
+	
+	background-color:pink;
+}
+.about
+{
+	background-color:#eee;
+	padding:40px;
+	
+}
+#ab{
+	text-align:center;
+	font-size:40px;
+	color:black;
+	font-family:Arial;
+	font-weight:bold;
+}
+.line
+{
+	width:4%;
+	border-top:2px solid white;
+}
+#aboutpara
+{
+	text-align:justify;
+	padding:10px;
+}
+
+
+				
+.abcom
+{
+	height:300px;
+}
+#ab1
+{
+	width:150px;
+	height:150px;
+	background-color:#1BBD36;
+	border-radius:150px;
+}
+#ab1:hover{
+	background-color:white;
+}
+.services
+{
+	height:auto;
+	background-color:white;
+	padding:20px;
+}
+.services h2
+{
+	color:#1BBD36;
+	font-size:18px;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-transform:uppercase;
+}
+.services p
+{
+	margin-bottom:50px;
+	color:black;
+}
+.services i{
+	font-size:40px;
+	margin-top:10px;
+	padding:50px;
+	color:white;
+	
+	
+}
+.services i:hover{
+	color:#1BBD36;
+}
+
+#s2
+{
+	margin-top:-5px;
+
+}
+				
+
+#s3
+{
+	margin-bottom:-55px;
+
+}
+				
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.news
+{
+	height:auto;
+	background-color:white;
+	padding:20px;
+}
+.img-responsive
+{
+	max-width:100%;
+}
+.news h2
+{
+	color:#1BBD36;
+	font-size:18px;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-transform:uppercase;
+}
+.news p
+{
+	margin-bottom:50px;
+	color:black;
+}
+.newsletter
+{
+	height:200px;
+	background-color:#eee;
+	padding:30px;
+	}
+.footer
+{
+	height:auto;
+	background-color:black;
+	padding:20px;
+}
+#fo
+{
+	color:white;
+}
